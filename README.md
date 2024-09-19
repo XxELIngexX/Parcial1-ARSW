@@ -3,6 +3,18 @@
 ### Arquitecturas de Software - ARSW
 ## Ejercicio Fórmula BBP - Parcial Practico
 
+##error
+
+![image](https://github.com/user-attachments/assets/d5e8cd4b-9733-4e22-aa68-b8c22e4e2f41)
+
+se evidencia que los hilos terminaron y el error sale al hacer start del primer hilo de la segunda consulta
+
+![image](https://github.com/user-attachments/assets/b83d6378-788a-4851-9589-7f46c57e6a73)
+
+
+
+
+
 
 **Ejercicio Fórmula BBP**
 
