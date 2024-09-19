@@ -3,6 +3,18 @@
 ### Arquitecturas de Software - ARSW
 ## Ejercicio Fórmula BBP - Parcial Practico
 
+### error
+** el ejercicio funciona hasta el punto 2 unicamente con 1 consulta
+![image](https://github.com/user-attachments/assets/38e3d066-bae5-4ff1-8392-7862ad49ee22)
+
+
+luego de comprobar que los hilos hayan terminado, que no este ninguno en ejecucion y que la primera solicitud me salga satisfactoria; a la hora de realizar la segunda ejecucion, hay un problema en la clase PiDigits en la linea 56, que equivale a la linea de codigo : "threads.get(i).start();" 
+cuando reviso la razon del error, no hay respuesta clara 
+
+![image](https://github.com/user-attachments/assets/390f21b7-7d38-44f8-94f8-979627980a49)
+
+
+
 
 **Ejercicio Fórmula BBP**
 
